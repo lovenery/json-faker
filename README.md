@@ -5,6 +5,8 @@ my fake json server
 - Node.js 6.x
 
 ## Install
+`git clone git@github.com:lovenery/json-faker.git`  
+`cd json-faker`  
 `npm install`  
 
 ## Usage
