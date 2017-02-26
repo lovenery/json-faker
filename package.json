@@ -1,0 +1,16 @@
+{
+  "name": "json-faker",
+  "version": "0.1.0",
+  "description": "my fake json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "json-server --watch db.json --port 3001",
+    "start": "json-server --port 3001 --watch"
+  },
+  "author": "lovenery",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "json-server": "^0.9.5"
+  }
+}
